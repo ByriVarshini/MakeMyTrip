@@ -1,5 +1,4 @@
 from pckg.User import User  
-
 class Admin:
     Admin_name="varshini"
     Admin_pass="varshu123"
